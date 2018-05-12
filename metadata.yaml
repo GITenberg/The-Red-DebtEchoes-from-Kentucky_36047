@@ -1,0 +1,25 @@
+_repo: The-Red-DebtEchoes-from-Kentucky_36047
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: MacDonald, Everett
+    gutenberg_agent_id: '38055'
+    url: http://www.gutenberg.org/2009/agents/38055
+description: ''
+gutenberg_issued: '2011-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36047'
+  lccn: '16025095'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Kentucky -- Fiction'
+title: 'The Red Debt: Echoes from Kentucky'
+url: http://www.gutenberg.org/ebooks/36047
