@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '38055'
     url: http://www.gutenberg.org/2009/agents/38055
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36047#The-Red-DebtEchoes-from-Kentucky
 gutenberg_issued: '2011-05-06'
 gutenberg_type: Text
 identifiers:
